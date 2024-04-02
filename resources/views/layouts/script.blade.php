@@ -1,0 +1,10 @@
+<script type="text/javascript" src="{{ asset('js/jquery-3.7.1.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/evo-calendar.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/utils/puller.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/lightbox.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/jquery.waypoints.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/jquery.counterup.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/sweetalert2.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/materialize.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/moment.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/main.js') }}"></script>
